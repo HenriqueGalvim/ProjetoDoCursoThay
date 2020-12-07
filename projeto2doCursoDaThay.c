@@ -1,8 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h> // esse include serve para habilitar o system cls
-
-#include <stdio.h>
-#include <stdlib.h> // esse include serve para habilitar o system cls
 #include <conio.h>
 
  
